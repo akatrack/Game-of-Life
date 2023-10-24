@@ -1,5 +1,5 @@
 # Game of Life
-_A rudimentary implementation of Conway's Game of Life with a specific initial configuration._
+_A rudimentary implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with a specific initial configuration._
 
 LIFE is an organism that lives in a discrete, two-dimensional world. This world is an array with each cell capable of holding one LIFE cell. Generations mark the passage of time. Each generation brings births and deaths to the LIFE community.
 
