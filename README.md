@@ -12,4 +12,4 @@ The births and deaths follow the set of rules that follow:
 ## Notes:
 Some configurations grow from relatively small starting configurations, while others move across the region. A simple initial configuration is used here.
 
-_Problem description taken from Walter Savitch's "Problem Solving in C++."_
+_Problem description taken from Walter Savitch's "Problem Solving with C++."_
